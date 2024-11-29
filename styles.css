@@ -1,0 +1,57 @@
+#main-pane {
+    -fx-background-color: #f5f5f5;
+}
+
+#home-buttons {
+    -fx-alignment: center;
+    -fx-button-size:20px;
+}
+
+#home-button {
+    -fx-background-color: #4caf50;
+    -fx-text-fill: white;
+    -fx-font-size: 16px;
+    -fx-padding: 10 20;
+    -fx-border-radius: 5;
+    -fx-cursor: hand;
+    -fx-effect: dropshadow(three-pass-box, rgba(0, 0, 0, 0.2), 5, 0, 0, 2);
+}
+
+#home-button:hover {
+    -fx-background-color: #45a049;
+}
+
+#form-container {
+    -fx-background-color: rgba(255, 255, 255, 0.85);
+    -fx-padding: 20;
+    -fx-border-radius: 10;
+    -fx-background-radius: 10;
+    -fx-effect: dropshadow(three-pass-box, rgba(0, 0, 0, 0.3), 10, 0, 0, 5);
+}
+
+#form-title {
+    -fx-font-weight: bold;
+    -fx-text-fill: #333;
+}
+
+#input-field {
+    -fx-font-size: 14px;
+    -fx-padding: 10;
+    -fx-border-color: #ddd;
+    -fx-border-radius: 5;
+    -fx-background-radius: 5;
+}
+
+#action-button {
+    -fx-background-color: #4caf50;
+    -fx-text-fill: white;
+    -fx-font-size: 16px;
+    -fx-padding: 10 20;
+    -fx-border-radius: 5;
+    -fx-cursor: hand;
+    -fx-effect: dropshadow(three-pass-box, rgba(0, 0, 0, 0.2), 5, 0, 0, 2);
+}
+
+#action-button:hover {
+    -fx-background-color: #45a049;
+}
