@@ -23,7 +23,7 @@ A simple JavaFX application that provides user registration and login functional
 
 
 ### Registration Page
-![2](https://github.com/user-attachments/assets/d9604477-2a52-4e91-9f2b-1a026e249138)
+![3](https://github.com/user-attachments/assets/8e0fff15-89af-4b4d-a8b9-61a721931086)
 
 
 ## Technologies Used
